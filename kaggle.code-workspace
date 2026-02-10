@@ -3,10 +3,6 @@
 		{
 			"name": "kaggle",
 			"path": "."
-		},
-		{
-			"name": "Colab GPU T4",
-			"uri": "colab://gpu-t4-s-11ylx8dxopvzz/content"
 		}
 	],
 	"settings": {}
